@@ -10,10 +10,12 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install pygame.
 python -m pip install --user pygame
 ```
 
+## Appearance
+
+![ScreenShot](images/Working%20Screenshot.png)
+
 ## Usage
 
 * Use the right and left arrow keys to move your ship.
 * Use the space bar to fire bullets at the incoming alien fleet.
 * Destroy the entirety of the alien fleet to move on to the next level.
-
-![ScreenShot](images/Working%20Screenshot.png)
