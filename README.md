@@ -16,4 +16,4 @@ python -m pip install --user pygame
 * Use the space bar to fire bullets at the incoming alien fleet.
 * Destroy the entirety of the alien fleet to move on to the next level.
 
-![ScreenShot](images/Working Screenshot.png)
+![ScreenShot](images/'Working Screenshot.png')
