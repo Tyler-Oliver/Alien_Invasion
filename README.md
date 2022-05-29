@@ -15,3 +15,5 @@ python -m pip install --user pygame
 * Use the right and left arrow keys to move your ship.
 * Use the space bar to fire bullets at the incoming alien fleet.
 * Destroy the entirety of the alien fleet to move on to the next level.
+
+![Alt text](images/Working Screenshot.png?raw=true "Optional Title")
